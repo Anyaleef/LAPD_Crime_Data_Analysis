@@ -44,9 +44,15 @@ The raw dataset is not included because of file size and source limitations.
 
 ###### **Files**
 
-\- `final\_project.ipynb` - main notebook
+\- `LAPD_Crime_Rates.ipynb` - main notebook
 
-\- `LAPD\_Crime\_Rates.pdf` - final project report
+\- `LAPD_Crime_Rates.pdf` - final project report
 
 \- `requirements.txt` - required Python packages
 
+
+
+###### **How to Run**
+Install the required packages:
+```bash
+pip install -r requirements.txt

@@ -53,6 +53,11 @@ The raw dataset is not included because of file size and source limitations.
 
 
 ###### **How to Run**
-Install the required packages:
+Open `LAPD_Crime_Rates.ipyn` in Jupyter Notebook, Google Colab, etc.
+
+Install the packages listed in `requirements.txt` if needed using:
 ```bash
 pip install -r requirements.txt
+```
+then run each notebook cell from top to bottom.
+

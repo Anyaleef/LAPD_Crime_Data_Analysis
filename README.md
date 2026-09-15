@@ -1,4 +1,4 @@
-# Los Angeles Crime Data Analysis ![Status](https://img.shields.io/badge/status-complete-brightgreen)
+# Los Angeles Crime Data Analysis ![Status](https://img.shields.io/badge/status-complete-yellow) ![University Project](https://img.shields.io/badge/type-university%20project-purple)
 
 This project was completed for the course **Intro to Data Analysis**.
 The project analyzes Los Angeles crime data from 2020–2023. It includes exploratory data analysis, victim demographic analysis, time-based crime trends, hypothesis testing, and a KNN predictive model.
